@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Soy Emma y creo el fichero.
 Soy Lara y modifico el fichero de Emma.
+=======
+Soy Emma y creo el fichero.
+>>>>>>> refs/remotes/origin/RamaEmma
